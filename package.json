@@ -1,0 +1,20 @@
+{
+    "name": "sample",
+    "version": "1.0.0",
+    "description": "topic application",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Johnathan Lugo",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jlugo5/topic-application.git"
+    },
+    "bugs": {
+        "url": "https://github.com/jlugo5/topic-application/issues"
+    },
+    "homepage": "https://github.com/jlugo5/topic-application#readme"
+}
+  
